@@ -46,3 +46,4 @@ The project uses a real financial transaction dataset (6.3M+ records) and featur
 | Joblib        | Model serialization          |
 
 ---
+## Dataset is available in Kaggle, it's too large to upload here. Name of the dataset: **Synthetic Financial Dataset For Fraud Detection**
